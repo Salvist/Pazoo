@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218610801804",
+    "project_id": "pazoo-4651b",
+    "storage_bucket": "pazoo-4651b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218610801804:android:5d0b7125337773707dafa9",
+        "android_client_info": {
+          "package_name": "com.example.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218610801804-3l8oudvdr24bckq0mig15rap1h8rsmei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfhgH9au0maRBF-HVi2qCPsYXfUCqvK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218610801804-3l8oudvdr24bckq0mig15rap1h8rsmei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
